@@ -33,7 +33,7 @@ function App() {
         <tr>
           <td>4</td>
           <td>API Fetch</td>
-          <td><a href="https://github.com/browhatf/databases">Repo Task-4</a></td>
+          <td><a href="https://github.com/browhatf/database">Repo Task-4</a></td>
           <td><a href="https://database-rho.vercel.app/">API Fetching</a></td>
         </tr>
         <tr>
